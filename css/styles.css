@@ -218,7 +218,7 @@ hr{
 
 /* Media Query Breakpoints */
 
-@media (max-width: 1050px){
+@media (max-width: 1200px){
     #title{
         text-align: center;
     }
