@@ -82,9 +82,10 @@ p{
 
 
 .title-image{
-    width: auto;
-    transform: rotate(25deg);
+    width: 60%;
+    transform: rotate(15deg);
     position:absolute;
+    align-self: auto;
 }
 
 
